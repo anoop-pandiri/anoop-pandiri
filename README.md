@@ -19,3 +19,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: pandirianoop6@gmail.com
 - 😄 Pronouns: He, His
 - ⚡ Fun fact about me: I search for meaning and purpose, even in small things.
+
+<img src="https://github-readme-stats.vercel.app/api?username=anoop-pandiri&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">

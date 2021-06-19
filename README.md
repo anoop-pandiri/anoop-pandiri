@@ -26,5 +26,25 @@ Here are some ideas to get you started:
 
 ## Top Languages
 <a href="https://github.com/anoop-pandiri">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anoop-pandiri&&show_icons=true&title_color=ffffff&icon_color=34eb4f&text_color=daf7dc&bg_color=151519"">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anoop-pandiri&&show_icons=true&title_color=ffffff&icon_color=34eb4f&text_color=daf7dc&bg_color=151519">
 </a>
+
+## My Repositories at Glance
+<table>
+  <tr>
+    <th>Web Development</th>
+    <th>Machine Learning</th>
+  </tr>
+  <tr>
+    <td> 
+      <ul>
+        <li><a target="_blank" href = "https://github.com/anoop-pandiri/spam-detector"><i>Spam-Detector WebApp</i></a></li>
+      </ul> 
+    </td>
+    <td>
+      <ul>
+        <li><a target="_blank" href="https://github.com/anoop-pandiri/spam-detector-nlp"><i>Spam-Detection NLP</i></a></li>
+      </ul>
+    </td>
+  </tr>
+</table>

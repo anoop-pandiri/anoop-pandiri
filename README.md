@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He, His
 - ⚡ Fun fact about me: I search for meaning and purpose, even in small things.
 
-<div align="center">
 ## Github Stats
 <a href="https://github.com/anoop-pandiri">
 <img align="center" alt="Venu Gopal Github Stats" src="https://github-readme-stats.vercel.app/api?username=anoop-pandiri&&show_icons=true&title_color=ffffff&icon_color=34eb4f&text_color=daf7dc&bg_color=151519">

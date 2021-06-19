@@ -47,4 +47,14 @@ Here are some ideas to get you started:
       </ul>
     </td>
   </tr>
+  <tr>
+    <th colspan="2">DBMS</th>
+  </tr>
+  <tr>
+    <td colspan="2"> 
+      <ul>
+        <li><a target="_blank" href = "https://github.com/anoop-pandiri/DBMS-PROJECT"><i>Network Hardware Database (Java AWT Application)</i></a></li>
+      </ul> 
+    </td>
+  </tr>
 </table>

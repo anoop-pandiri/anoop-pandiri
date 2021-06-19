@@ -30,6 +30,7 @@ Here are some ideas to get you started:
 </a>
 
 ## My Repositories at Glance
+
 <table>
   <tr>
     <th>Web Development</th>

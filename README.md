@@ -20,6 +20,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact about me: I search for meaning and purpose, even in small things.
 
 ## Github Stats
+
+![Profile Views](https://komarev.com/ghpvc/?username=anoop-pandiri)
+
+![Followers](https://img.shields.io/github/followers/anoop-pandiri)
+
 <a href="https://github.com/anoop-pandiri">
 <img align="center" alt="Anoop Github Stats" src="https://github-readme-stats.vercel.app/api?username=anoop-pandiri&&show_icons=true&title_color=ffffff&icon_color=34eb4f&text_color=daf7dc&bg_color=151519">
 </a>
@@ -59,3 +64,9 @@ Here are some ideas to get you started:
     </td>
   </tr>
 </table>
+
+## Contact Me 📫
+
+You can find and get in touch with me via Linkedin!
+
+[![Linkedin Badge](https://img.shields.io/badge/anoop-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anoop-pandiri/)

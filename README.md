@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 ## Top Languages
 <a href="https://github.com/anoop-pandiri">
-  <img align="center" src="">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anoop-pandiri&&show_icons=true&title_color=ffffff&icon_color=34eb4f&text_color=daf7dc&bg_color=151519">
 </a>
 
 ## My Repositories at Glance

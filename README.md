@@ -45,6 +45,7 @@ Here are some ideas to get you started:
     <td> 
       <ul>
         <li><a target="_blank" href = "https://github.com/anoop-pandiri/spam-detector"><i>Spam-Detector WebApp</i></a></li>
+        <li><a target="_blank" href = "https://github.com/anoop-pandiri/vcard"><i>VCard WebApp</i></a></li>
       </ul> 
     </td>
     <td>

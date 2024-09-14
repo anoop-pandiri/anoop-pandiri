@@ -13,11 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning Vue, Springboot
-- 👯 I’m looking to collaborate on GitHub
-- 📫 How to reach me: pandirianoop6@gmail.com
-- ⚡ Fun fact about me: I search for meaning and purpose, even in small things.
-
 ## Github Stats
 
 ![Profile Views](https://komarev.com/ghpvc/?username=anoop-pandiri)

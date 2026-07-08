@@ -9,7 +9,7 @@ Backend Software Engineer from 🇮🇳 who enjoys building software that is sim
 [![Gmail](https://img.shields.io/badge/Gmail-%20-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:pandirianoop6@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/anoop_pandiri/)
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/anoop_pandiri)
+![LeetCode Stats](https://leetcard.jacoblin.cool/anoop_pandiri?hide=ranking)
 
 ## Toolbox
 

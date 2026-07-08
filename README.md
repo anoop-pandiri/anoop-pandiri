@@ -19,47 +19,6 @@ Here are some ideas to get you started:
 
 ![Followers](https://img.shields.io/github/followers/anoop-pandiri)
 
-<a href="https://github.com/anoop-pandiri">
-<img align="center" alt="Anoop Github Stats" src="https://github-readme-stats.vercel.app/api?username=anoop-pandiri&&show_icons=true&title_color=ffffff&icon_color=34eb4f&text_color=daf7dc&bg_color=151519">
-</a>
-
-## Top Languages
-<a href="https://github.com/anoop-pandiri">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anoop-pandiri&&show_icons=true&title_color=ffffff&icon_color=34eb4f&text_color=daf7dc&bg_color=151519">
-</a>
-
-## My Repositories at Glance
-
-<table>
-  <tr>
-    <th>Web Development</th>
-    <th>Machine Learning</th>
-  </tr>
-  <tr>
-    <td> 
-      <ul>
-        <li><a target="_blank" href = "https://github.com/anoop-pandiri/spam-detector"><i>Spam-Detector WebApp</i></a></li>
-        <li><a target="_blank" href = "https://github.com/anoop-pandiri/vcard"><i>VCard WebApp</i></a></li>
-      </ul> 
-    </td>
-    <td>
-      <ul>
-        <li><a target="_blank" href="https://github.com/anoop-pandiri/spam-detector-nlp"><i>Spam-Detection NLP</i></a></li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <th colspan="2">DBMS</th>
-  </tr>
-  <tr>
-    <td colspan="2"> 
-      <ul>
-        <li><a target="_blank" href = "https://github.com/anoop-pandiri/DBMS-PROJECT"><i>Network Hardware Database (Java AWT Application)</i></a></li>
-      </ul> 
-    </td>
-  </tr>
-</table>
-
 ## Contact Me 📫
 
 You can find and get in touch with me via Linkedin!

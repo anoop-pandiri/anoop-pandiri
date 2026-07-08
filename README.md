@@ -5,6 +5,11 @@ Backend Software Engineer from 🇮🇳 who enjoys building software that is sim
 
 ![Profile Views](https://komarev.com/ghpvc/?username=anoop-pandiri) ![Followers](https://img.shields.io/github/followers/anoop-pandiri)
 
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/anoop-pandiri)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/anoop-pandiri/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/anoop_pandiri/)
+[![Gmail](https://img.shields.io/badge/Gmail-%20-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:pandirianoop6@gmail.com)
+
 ![LeetCode Stats](https://leetcard.jacoblin.cool/anoop_pandiri)
 
 ## Toolbox
@@ -19,21 +24,4 @@ Backend Software Engineer from 🇮🇳 who enjoys building software that is sim
 
 <p>
   <img src="https://skillicons.dev/icons?i=linux,vscode,idea,postman,git,gitlab,github" />
-</p>
-
-## Contact me
-
-<p>
-  <a href="https://linkedin.com/in/anoop-pandiri" style="text-decoration: none;">
-    <img src="https://skillicons.dev/icons?i=linkedin"/>
-  </a> &nbsp;&nbsp;
-  
-   <a href="mailto:pandirianoop6@gmail.com" style="text-decoration: none;">
-    <img src="https://skillicons.dev/icons?i=gmail"/>
-  </a> 
-<!--
-  <a href="https://YOUR_PORTFOLIO">
-    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-  </a>
--->
 </p>

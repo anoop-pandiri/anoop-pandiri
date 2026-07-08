@@ -1,4 +1,4 @@
-## Hi there 👋, I am Anoop!<img height="60" width="60" src="https://media.tenor.com/images/3e59cfdbe7cdcbd397a59eb103b1e976/tenor.gif" />
+## Hi there 👋, I am Anoop!
 <!--
 **ANOOP-PANDIRI/ANOOP-PANDIRI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

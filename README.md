@@ -21,6 +21,17 @@ Here are some ideas to get you started:
 
 ## Contact Me 📫
 
-You can find and get in touch with me via Linkedin!
+<p>
+  <a href="https://linkedin.com/in/anoop-pandiri">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+  </a>
 
-[![Linkedin Badge](https://img.shields.io/badge/anoop-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anoop-pandiri/)
+  <a href="mailto:pandirianoop6@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+  </a>
+<!--
+  <a href="https://YOUR_PORTFOLIO">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  </a>
+-->
+</p>

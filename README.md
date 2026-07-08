@@ -14,13 +14,13 @@ Backend Software Engineer from 🇮🇳 who enjoys building software that is sim
 ## Toolbox
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,bash,html,css,javascript" />
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,bash,html,css,javascript" height="36"/>
 </p>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=spring,postgres,mongodb,hibernate,redis,kafka,maven,gradle,docker,kubernetes" />
+  <img src="https://skillicons.dev/icons?i=spring,postgres,mongodb,hibernate,redis,kafka,maven,gradle,docker,kubernetes"  height="36"/>
 </p>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,vscode,idea,postman,git,gitlab,github" />
+  <img src="https://skillicons.dev/icons?i=linux,vscode,idea,postman,git,gitlab,github" height="36"/>
 </p>

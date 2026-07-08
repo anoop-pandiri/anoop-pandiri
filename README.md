@@ -3,12 +3,11 @@ Backend Software Engineer from 🇮🇳 who enjoys building software that is sim
 
 ## Stats
 
-![Profile Views](https://komarev.com/ghpvc/?username=anoop-pandiri) ![Followers](https://img.shields.io/github/followers/anoop-pandiri)
-
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/anoop-pandiri)
+![Profile Views](https://komarev.com/ghpvc/?username=anoop-pandiri)
+[![GitHub Anoop](https://img.shields.io/github/followers/anoop-pandiri?label=follow&style=social)](https://github.com/anoop-pandiri)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/anoop-pandiri/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/anoop_pandiri/)
 [![Gmail](https://img.shields.io/badge/Gmail-%20-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:pandirianoop6@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/anoop_pandiri/)
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/anoop_pandiri)
 
